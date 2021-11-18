@@ -10,6 +10,6 @@ int main()
     cin >> abc;
     cout << endl;
     acb = (abc / 100) * 100 + (abc % 10) * 10 + (abc % 100 / 10);
-    cout << "Отриhjhjhмане число:" << acb;
+    cout << "Отриhмане число:" << acb;
     return 0;
 }
